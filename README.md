@@ -46,4 +46,4 @@ This model employs transfer learning by utilizing a pretrained YOLO model. This 
 Jacob Pitsenberger
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+[License](LICENSE.md)
