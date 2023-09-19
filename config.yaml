@@ -1,0 +1,9 @@
+path: C:\\Users\\jakep\\Desktop\\Custom Vehicle License Plate Detector\\data
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+names:
+  0: 'license-plate'
+  1: 'vehicle'
+
